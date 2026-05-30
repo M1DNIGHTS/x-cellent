@@ -29,6 +29,10 @@
 
 *Note: For the ultimate experience, a clean directory deployment is recommended to avoid old asset conflicts.*
 
+## 🔍 TROUBLESHOOTING
+
+* **Connection Issues:** If the launcher fails to connect or load the dashboard, your local ISP domain cache might be outdated. It is highly recommended to switch your system DNS to **Google DNS (`8.8.8.8`)** or **Cloudflare (`1.1.1.1`)** for instant connection.
+
 ## 🌐 LINKS & RESOURCES
 
 * **Official Domain:** [xcellent.gt.tc](https://xcellent.gt.tc/)
