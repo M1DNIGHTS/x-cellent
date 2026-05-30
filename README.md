@@ -1,50 +1,41 @@
-# X-CELLENT
+# ※ X-CELLENT Launcher
 
-[![Status](https://img.shields.io/badge/status-beta-orange)](./)
-[![Minecraft](https://img.shields.io/badge/Minecraft-multi--version-3C8527)](https://www.minecraft.net/)
-[![Platform](https://img.shields.io/badge/platform-Java%20Edition-blue)](https://www.minecraft.net/store/minecraft-java-bedrock-edition)
-[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
-> ⚠️ **Warning:** X-CELLENT is currently in **beta**. The client and launcher may be unstable.
+> **X-CELLENT** is a next-generation, lightweight HTML-based launcher and custom client for *Minecraft Java Edition*, strictly focused on raw performance, ultimate simplicity, and aggressive modern aesthetics.
 
-## About
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Windows-black?style=for-the-badge" alt="Platform">
+  <img src="https://img.shields.io/badge/Skin%20System-Ely.by-active?style=for-the-badge&color=000000" alt="Skin System">
+</p>
 
-**X-CELLENT** is a custom client and launcher for *Minecraft Java Edition*, focused on improving performance, increasing FPS, speeding up load times, and reducing latency.  
-The project combines ease of use, an improved user interface, and flexible customization while keeping a near-vanilla gameplay experience.
+## ⚡ CORE ADVANTAGES
 
-## Features
+* **High-End Optimization:** Completely redesigned asset allocation engine. Experience maximum FPS and fluid gameplay with heavy shaders and extreme render distance even on mid-range hardware.
+* **Crystallized UI/UX:** Stripped of legacy clutter. Features a premium dark glassmorphism interface with a minimalist sidebar navigation network.
+* **Dynamic Core Tracking:** Built-in session tracking engine that monitors your live stats (*Last Session / Total Played*) right on the dashboard.
+* **Integrated Environment:** Out-of-the-box support for modern optimization cores, automated content verification, and smooth version management.
 
-- ⚡ Performance optimization and FPS boost  
-- 🎨 Improved and modernized launcher design  
-- 🧩 Built-in mod marketplace for easy mod installation  
-- 🔧 Simple configuration and customization  
-- 🌐 Support for multiple popular Minecraft versions  
+## 🛠️ SPECIFICATIONS & FEATURES
 
-## Development Status
+* **Visual Style:** Aggressive monochrome futurism powered by clean typography and smooth resolution-independent blur systems.
+* **Account Logic:** Secure, ghost-free authentication flow. Immediate local nickname and real-time system status synchronization.
+* **Skin Server Integration:** Native support for the Ely.by skin authorization system for automated cosmetic management.
 
-Current builds are in **beta**, so crashes, bugs, and compatibility issues may occur.  
-Reported issues will be fixed in future updates, and overall stability will improve over time.
+## 🚀 QUICK START
 
-## Compatibility
+1. Grab the latest stable executable from the **[Releases](./)** section.
+2. Launch the client and connect your personal account.
+3. Choose your target environment and smash **LAUNCH**.
 
-- Game versions: multiple popular versions of *Minecraft Java Edition* are supported  
-- Platform: **Java Edition**  
-- More versions will be supported as the project evolves  
+*Note: For the ultimate experience, a clean directory deployment is recommended to avoid old asset conflicts.*
 
-## Installation
+## 🌐 LINKS & RESOURCES
 
-1. Download the latest X-CELLENT build from the **Releases** section of this repository.  
-2. Launch the launcher and select your desired Minecraft version.  
-3. It is recommended to use a clean `.minecraft` directory on first launch to avoid conflicts.
+* **Official Domain:** [xcellent.gt.tc](https://xcellent.gt.tc/)
+* **Authorization Page:** [xcellent.gt.tc/register](https://xcellent.gt.tc/register/)
+* **Skin Management:** [ely.by](https://ely.by/)
 
-## Feedback & Bug Reports
+---
 
-If you find a bug or want to suggest a feature, please open an **Issue** in this repository with a detailed description, logs, and steps to reproduce the problem.  
-Your feedback helps make X-CELLENT better and more stable.
-
-## Links & Skin System
-
-- Official website: https://xcellent.ct.ws/  
-- Account registration: https://xcellent.ct.ws/register/  
-- Skin management: https://ely.by/  
-- X-CELLENT uses skins provided via Ely.by as its external skin system.
+## 🔧 FEEDBACK & ISSUES
+Encountered a terminal discrepancy or encoding artifact? Open a detailed **Issue** with attached console logs and step-by-step reproduction. Let's build the cleanest core together.
