@@ -5,7 +5,10 @@
 
 <p align="center">
   <a href="https://xcellent.gt.tc/">
-  <img src="https://xcellent.gt.tc/assets/git.logo.png" alt="X-CELLENT Logo" width="150"></a>
+    <img src="https://xcellent.gt.tc/assets/git.logo.png" alt="X-CELLENT Logo" width="150">
+  </a>
+  <br>
+  <img src="https://xcellent.gt.tc/assets/xc.belowtxt.png" alt="X-CELLENT Description" width="280">
   <br><br>
   <a href="https://xcellent.gt.tc/">
     <img src="https://xcellent.gt.tc/assets/visit.btn.png" alt="Visit Website" width="220">
