@@ -1,11 +1,19 @@
 # ※ X-CELLENT Launcher
 
 
-> **X-CELLENT** is a next-generation, lightweight HTML-based launcher and custom client for *Minecraft Java Edition*, strictly focused on raw performance, ultimate simplicity, and aggressive modern aesthetics.
+> **X-CELLENT** is a next-generation, lightweight HTML-based launcher and custom client for Minecraft Java Edition, strictly focused on raw performance, ultimate simplicity, and aggressive modern aesthetics. STILL IN BETA, ERRORS MAY OCCUR.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows-black?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/Skin%20System-Ely.by-active?style=for-the-badge&color=000000" alt="Skin System">
+  <a href="https://xcellent.gt.tc/">
+  <img src="https://xcellent.gt.tc/assets/git.logo.png" alt="X-CELLENT Logo" width="150"></a>
+  <br><br>
+  <a href="https://xcellent.gt.tc/">
+    <img src="https://xcellent.gt.tc/assets/visit.btn.png" alt="Visit Website" width="220">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://xcellent.gt.tc/register">
+    <img src="https://xcellent.gt.tc/assets/reg.btn.png" alt="Register" width="220">
+  </a>
 </p>
 
 ## ⚡ CORE ADVANTAGES
